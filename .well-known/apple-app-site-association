@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["86K2SN6439.com.lovewilltearusapart"],
+        "components": [{ "/": "/i/*", "comment": "Invites open the app" }]
+      }
+    ]
+  }
+}
